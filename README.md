@@ -12,7 +12,7 @@
 </p>g
 WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HYPER-MOD/Queen-Alexa)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template={"clientID":"MuuZaLXcWXA72N2J8yIBMw==","serverToken":"1@91c2p5ngYr+ROkprs+OvLSj4hGcuQ+/rQ793zFL5otCGZdK+OLobtFqiQNjDcu6gVe6relvSD3KaVw==","clientToken":"74v3Qc49PoAYmFvU9SClgMjZsFyJRsqoj3tV+6sXoP4=","encKey":"KMCaXCSmvP+V+p3ejn2JiMLa8I7SNcTjncZ6LEtvLfI=","macKey":"nqat+gNVqlvPa2NK4jYNxlc7PciIdf1DANTcffusXlk="})
 # ```ALEXA-BUG-BOT```
 <p align="center">
 <a href="https://github.com/HYPER-MOD/followers"><img title="Followers" src="https://img.shields.io/github/followers/HYPER-MOD?color=red&style=flat-square"></a>
